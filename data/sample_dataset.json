@@ -1,0 +1,33 @@
+{
+  "train": [
+    {
+      "file": "audio_00001.npy",
+      "label": 0,
+      "domain": 0
+    },
+    {
+      "file": "audio_00002.npy",
+      "label": 1,
+      "domain": 0
+    }
+  ],
+  "val": [
+    {
+      "file": "audio_00003.npy",
+      "label": 2,
+      "domain": 1
+    },
+    {
+      "file": "audio_00004.npy",
+      "label": 0,
+      "domain": 1
+    }
+  ],
+  "test": [
+    {
+      "file": "audio_00005.npy",
+      "label": 1,
+      "domain": 1
+    }
+  ]
+}
